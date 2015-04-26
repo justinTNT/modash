@@ -1,0 +1,4 @@
+--globals domain,_events,_maxListeners
+--compilers coffee:coffee-script/register
+--recursive
+--timeout 5000

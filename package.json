@@ -1,0 +1,19 @@
+{
+  "name": "modash",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justinTNT/modash"
+  },
+  "scripts": {
+    "test": "mocha --reporter landing test/"
+  },
+  "devDependencies": {
+    "lodash": "^2.4.1",
+    "should": "^5.0.0",
+    "coffee-script": "1.9.1"
+  }
+}
+
