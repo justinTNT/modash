@@ -1,0 +1,2 @@
+# modash
+extensions for lodash
